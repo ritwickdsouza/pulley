@@ -1,0 +1,9 @@
+[package]
+name = "pulley"
+version = "0.1.0"
+authors = ["Ritwick Dsouza <ritwickdsouza1997@gmail.com>"]
+license = "MIT"
+description = "A distributed task queue for Rust"
+repository = "https://github.com/ritwickdsouza/pulley"
+
+[dependencies]
